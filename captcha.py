@@ -18,7 +18,7 @@ def solve_captcha():
         },
         params={
             "alt": "json",
-            "key": "<key gg vision>",
+            "key": "AIzaSyAa8yy0GdcGPHdtD083HiGGx_S0vMPScDM",
         },
         json=json_data,
     )
