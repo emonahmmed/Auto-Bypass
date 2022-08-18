@@ -18,7 +18,7 @@ def solve_captcha():
         },
         params={
             "alt": "json",
-            "key": "AIzaSyAa8yy0GdcGPHdtD083HiGGx_S0vMPScDM",
+            "key": "",
         },
         json=json_data,
     )
